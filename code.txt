@@ -1,0 +1,3 @@
+def addition(a,b):
+    '  This is the function that return addition of two numbers  '
+    return a+b
